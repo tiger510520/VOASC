@@ -7,4 +7,5 @@ The core algorithm automatically switches between VOASC and VOASCcop based on th
 | isCSP Value     |   Algorithm Called  |      Description                 |
 
 |      true       |      VOASC          |  Solve satisfaction problems     |
+
 |      false      |     VOASCcop        |  Solve optimization problems     |
